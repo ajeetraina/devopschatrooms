@@ -1,6 +1,8 @@
 # Top 100 Active Slack/Discord Channels for DevOps Folks
 
-Find the curated list of the top 100 active Slack or Discord Channels for DevOps Engineers.
+As the tech stacks are becoming more and more complex and business is moving at a fast pace, DevOps Teams worldwide are turning to the communication tools like Slack and Discord to stay productive. Here's a Collabnix community effort to gather the top 100 active Slack and discord channels for DevOps folks like you.
+
+## Curated list of the Slack or Discord Channels for DevOps Engineers.
 
 
 | Community  | Slack | Discord |
