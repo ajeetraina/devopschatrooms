@@ -7,9 +7,9 @@ As the tech stacks are becoming more and more complex and business is moving at 
 
 | Community  | Slack | Discord |
 | ------------- | ------------- | ------------- | 
-| Docker   | https://dockercommunity.slack.com(Official)  | https://discord.gg/CVBzBtdY(Unofficial) |
-| Kubernetes  | https://slack.k8s.io/(Official)  | N/A |
-| CNCF | https://slack.cncf.io/(official) | N/A |
+| Docker   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
+| Kubernetes  | https://slack.k8s.io/ (Official)  | N/A |
+| CNCF | https://slack.cncf.io/ (official) | N/A |
 | Portainer | https://tinyurl.com/portainer (Official) | N/A
 | Collabnix | https://launchpass.com/collabnix (Official) | N/A |
 | KubeDaily | N/A | https://discord.gg/rEvr7vq (Official) | 
