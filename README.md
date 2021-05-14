@@ -13,3 +13,4 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | Kubernetes  | https://slack.k8s.io/ (Official)  | N/A |
 | KubeDaily | N/A | https://discord.gg/rEvr7vq (Official) | 
 | Portainer | https://tinyurl.com/portainer (Official) | N/A |
+| Shipa | https://tinyurl.com/shipaio (Official) | N/A |
