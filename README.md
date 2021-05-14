@@ -15,3 +15,4 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | Portainer | https://tinyurl.com/portainer (Official) | N/A |
 | Rancher | https://slack.rancher.io/ (official) | N/A |
 | Shipa | https://tinyurl.com/shipaio (Official) | N/A |
+| Thanos | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
